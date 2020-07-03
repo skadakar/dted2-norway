@@ -1,4 +1,4 @@
-DTED conversion DTM 10 data from Kartverket.
+DTED conversion DTM 10 data of Norway from Kartverket.
 Purpose is elevation data available to be used with ATAK. 
 
 Original source:
